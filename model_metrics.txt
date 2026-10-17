@@ -1,0 +1,6 @@
+Netflix Movie Recommendation - SVD
+Ratings sampled: 100000
+Training ratings: 80000
+Testing ratings: 20000
+RMSE: 1.0252
+MAE: 0.8256
